@@ -1,0 +1,24 @@
+Hello, GisProject!
+
+This is my code.
+Hello world!
+
+<html>
+  <head>
+    <title>Div Align Attribbute</title>
+  </head>
+  <body>
+    <div align="left">
+      Hi, my name is Ernat and I am 21 years old. And this is my first project in Github.com .I am interested in further lessons in this area.
+    </div>
+    <div align="right">
+      Hi, my name is Ernat and I am 21 years old. And this is my first project in Github.com .I am interested in further lessons in this area.
+    </div>
+    <div align="center">
+      Hi, my name is Ernat and I am 21 years old. And this is my first project in Github.com .I am interested in further lessons in this area.
+    </div>
+    <div align="justify">
+      Hi, my name is Ernat and I am 21 years old. And this is my first project in Github.com .I am interested in further lessons in this area.
+    </div>
+  </body>
+</html> 
